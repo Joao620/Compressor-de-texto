@@ -1,0 +1,8 @@
+﻿  CompressorTexto.cpp
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(24,19): warning C4018: '>': incompatibilidade de signed/unsigned
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(160,20): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(214,10): warning C4018: '>': incompatibilidade de signed/unsigned
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(304,20): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(322,23): warning C4309: 'inicializando': truncamento de valor constante
+E:\Programas\C++\CompressorTexto\CompressorTexto\CompressorTexto.cpp(338,18): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  CompressorTexto.vcxproj -> E:\Programas\C++\CompressorTexto\Debug\CompressorTexto.exe

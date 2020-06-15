@@ -1,0 +1,13 @@
+﻿  CompressorTexto.cpp
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(22,25): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'unsigned int', possível perda de dados
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(27,42): warning C4244: 'argumento': conversão de 'std::streamoff' para 'const unsigned int', possível perda de dados
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(42,23): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(48,36): warning C4244: 'argumento': conversão de 'double' para 'const unsigned int', possível perda de dados
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(54,23): warning C4018: '<': incompatibilidade de signed/unsigned
+E:\Programas\C++\imagem-inator\CompressorTexto\CompressorTexto\CompressorTexto.cpp(108,13): warning C4018: '>': incompatibilidade de signed/unsigned
+  Gerando código
+  Finalizada a geração de código
+  0 of 223 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  CompressorTexto.vcxproj -> E:\Programas\C++\imagem-inator\CompressorTexto\Release\CompressorTexto.exe
